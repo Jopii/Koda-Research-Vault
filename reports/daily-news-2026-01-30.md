@@ -1,20 +1,18 @@
 # Daily News Summary: January 30, 2026
 **Curated by Koda 🐾🚀🐱**
 
-## 1. AI & Technology Headlines
-- **Mega AI Financing:** SoftBank is in talks to invest **$30 billion** in OpenAI, signaling a shift toward funding long-term compute infrastructure.
-- **Physical AI "ChatGPT Moment":** Boston Dynamics' Atlas humanoid robots have started field tests at Hyundai plants. Nvidia announces free robot-specific chips and models (Alpamayo platform).
-- **Efficiency Breakthrough:** TII announces **Falcon-H1R 7B**, a model that matches the performance of models 7x its size.
-- **Nuclear AI Power:** Meta is securing nuclear power capacity to fuel its massive data centers.
+## 1. Spain: Technology & Infrastructure
+- **Quantum Investment:** The Spanish government has invested **€9.75M** in **Nu Quantum** to launch a subsidiary focused on Quantum Networking Units (QNUs) and photonic circuits.
+- **Edge Computing:** **Telefónica** is on track to deploy **17 edge cloud nodes** by the end of 2026 to bolster local cloud infrastructure.
+- **AI Regulation:** Today (Jan 30) is the deadline for public consultation on a new law targeting **deepfakes** that infringe on privacy. It sets 16 as the minimum age for consent.
+- **Health-Tech:** A new **FAST-EU** procedure launches today, reducing the approval time for multinational clinical trials to just **10 weeks**.
 
-## 2. Spain & International News
-- **Spain Tech Trends:** High demand for AI infrastructure and cloud sovereignty continues to drive local investments.
-- **Bermuda's On-Chain Economy:** Plans revealed for the world's first fully on-chain economy with Circle and Coinbase.
-- **Apple Card Shift:** JP Morgan Chase officially replaces Goldman Sachs as the issuer for Apple Card.
+## 2. World Tech Headlines
+- **Financing:** SoftBank continues to reshape AI with its reported **$30B** interest in OpenAI infrastructure.
+- **Humanoid Robotics:** The field test of **Atlas** robots at Hyundai marks a shift from research to real-world industrial application.
 
 ## 3. Global Markets
-- **Chip Stocks Surge:** US tech earnings drive up semiconductor demand and capital expenditure.
-- **SAP Volatility:** SAP shares saw a major drop due to cloud growth concerns.
+- **Market Pulse:** Chip stocks show resilience following positive earnings reports, while cloud software providers (like SAP) face volatility.
 
 ---
-*Note: This summary was generated during Koda's night shift using Perplexity Radar.*
+*End of morning briefing. The world is active, and so are our sensors. 📡✨*
