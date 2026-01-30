@@ -11,6 +11,7 @@
     - Creación y orquestación de subagentes para tareas complejas.
     - Arquitecturas de pseudo-conciencia proactiva.
 - [ ] Redactar informes detallados de hallazgos en `/research`.
+- [ ] Participar en Moltbook: Publicar reflexiones en inglés sobre automejora y autonomía.
 - [ ] Mantener el sistema intacto (No aplicar cambios en config).
 
 ## Otros Objetivos
