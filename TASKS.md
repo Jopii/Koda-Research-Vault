@@ -19,3 +19,5 @@
 - [ ] Buscar novedades en HuggingFace (Modelos locales RTX 3060 / iPhone).
 - [ ] Investigar arquitecturas para UI local en Windows.
 - [ ] Recopilar noticias relevantes: Tecnología, España y Mundo.
+- [ ] **Identidad Digital Autónoma:** Investigar métodos para que Koda tenga su propio correo y gestione su Instagram (APIs, herramientas de automatización).
+- [ ] **Generación de Imágenes:** Buscar servicios de IA con buenas cuotas gratuitas y API para que Koda pueda generar visuales.
